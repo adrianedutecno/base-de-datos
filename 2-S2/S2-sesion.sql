@@ -10,7 +10,7 @@ CREATE TABLE categorias (
     nombre VARCHAR(50)
 );
 
--- Tabala con PK y FK
+-- Tabla con PK y FK
 CREATE TABLE productos (
     producto_id SERIAL PRIMARY KEY,
     nombre VARCHAR (50),
