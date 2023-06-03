@@ -19,11 +19,11 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Visual Studio Code, PyCharm
+postgreSQL
 ```
 
 ```
-Python 3
+pgadmin
 ```
 
 ```
@@ -31,7 +31,7 @@ Git, Github
 ```
 
 ```
-variables de entorno para python
+variables de entorno para psql
 ```
 
 ### Instalación 🔧
@@ -46,7 +46,7 @@ Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecu
 
 ## Construido con 🛠️
 
-* [Python](https://www.python.org/downloads/)
+* [PostgreSQL](https://www.postgresql.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/)
 * [GitHub](https://github.com/)

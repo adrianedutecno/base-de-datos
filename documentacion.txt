@@ -1,0 +1,11 @@
+Descarga
+
+https://www.postgresql.org/download/
+
+
+Documentación
+https://www.postgresql.org/docs/current/index.html
+
+Tipos de datos
+https://www.postgresql.org/docs/current/datatype.html
+

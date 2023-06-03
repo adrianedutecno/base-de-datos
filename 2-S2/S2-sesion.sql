@@ -44,3 +44,6 @@ SELECT * FROM productos;
 COMMIT;
 DROP TABLE productos;
 DROP TABLE categorias
+
+--Tipos de datos
+--https://www.postgresql.org/docs/current/datatype.html
