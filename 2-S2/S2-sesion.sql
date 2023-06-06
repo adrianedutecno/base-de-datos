@@ -21,7 +21,7 @@ CREATE TABLE productos (
 
 -- Insertar valores en tabla categorias con referencia a la columna nombre
 
-INSERT INTO categorias (nombre) VALUES ('Electronica');
+INSERT INTO categorias (nombre) VALUES ('Electrónica');
 INSERT INTO categorias (nombre) VALUES ('Ropa');
 INSERT INTO categorias (nombre) VALUES ('Hogar');
 
@@ -30,7 +30,7 @@ SELECT * FROM categorias;
 
 -- Insertar valores en tabla productos
 INSERT INTO productos (nombre, precio, categoria_id) VALUES 
-('Telefono',12000, 1),
+('Teléfono',12000, 1),
 ('Televisor', 500000, 1),
 ('Pantalon', 1000, 2),
 ('Polera', 500, 2),
