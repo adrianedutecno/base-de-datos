@@ -4,7 +4,7 @@ _Proyectos que permiten la ejemplificación de códigos en psql y sql, con difer
 
 * estructura del lenguaje sql.
 * creación, inserción, modificación, eliminación de base de datos.
-* creación, insercción, modificación, eliminación en tablas.
+* creación, inserción, modificación, eliminación en tablas.
 * creación de modelos entidad relación.
   _
 
