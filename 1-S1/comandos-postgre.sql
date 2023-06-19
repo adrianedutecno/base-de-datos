@@ -1,3 +1,10 @@
+----------------------------------------------------
+--Variables de entorno del sistema windows
+--System enviroment variables
+----------------------------------------------------
+C:\Program Files\PostgreSQL\15\bin
+C:\Program Files\PostgreSQL\15\lib
+
 ----------------------------------
 --Conectar desde cualquier parte
 ----------------------------------
