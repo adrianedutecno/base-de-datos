@@ -1,4 +1,4 @@
-# Modulo Base de Datos, Bases de datos relacionales
+# Módulo Base de Datos, Bases de datos relacionales
 
 _Proyectos que permiten la ejemplificación de códigos en psql y sql, con diferente complejidad.
 
